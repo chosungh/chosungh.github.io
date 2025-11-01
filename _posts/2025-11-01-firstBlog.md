@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "오늘 신세계를 맛봤다."
 ---
 
